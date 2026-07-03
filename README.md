@@ -1,1 +1,1 @@
-https://github.com/inshasahar/-CUSTOMER-SEGMENTATION
+https://github.com/inshasahar/-CUSTOMER-SEGMENT
